@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "date": "2022-01-01",
+    "weather": "Sunny",
+    "visibility": "Excellent",
+    "comment": "Great condition"
+  },
+  {
+    "id": 2,
+    "date": "2022-01-02",
+    "weather": "Cloudy",
+    "visibility": "Good",
+    "comment": "Cloudy but still good"
+  }
+]
